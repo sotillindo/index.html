@@ -11,6 +11,6 @@
 <body>
   <h1>Sobre mim</h1>
   <p>Escreva aqui sua formação e seus interesses em design.</p>
-  <a href="index.html">Voltar para o início</a>
+  <a href="index.html">Voltar para o início</a><p><a href="sobre.html">Sobre mim</a></p>
 </body>
 </html>
